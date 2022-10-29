@@ -1,0 +1,7 @@
+# Abreviaturas comunes
+
+
+|Abreviatura|Significado|
+|-|-|
+|PRL|**P**revención de **R**iesgos **L**aborales|
+|LPRL|**L**ey 31/1995, de 8 de noviembre, de **P**revención de **R**iesgos **L**aborales|
