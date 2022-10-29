@@ -14,7 +14,7 @@ jobs:
           mdbook-version: 'latest'
       - run: mdbook build
       - name: upload
-        uses: actions/upload-pages-artifact
+        uses: actions/upload-pages-artifact@v1
         with:
           path: "book"
 
@@ -23,7 +23,7 @@ jobs:
     permissions:
       pages: write
       id-token: write
-    environment: github-pages@v1
+    environment: github-pages
     url: ${{ steps.deployment.outputs.page_url }}
 
     runs-on: ubuntu-latest
