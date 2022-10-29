@@ -1,0 +1,33 @@
+name: Release Page
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up mdbook
+        uses: peaceiris/actions-mdbook@v1
+        with:
+          mdbook-version: 'latest'
+      - run: mdbook build
+      - name: upload
+        uses: actions/upload-pages-artifact
+        with:
+          path: "book"
+
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment: github-pages@v1
+    url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
