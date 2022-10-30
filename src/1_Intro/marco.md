@@ -53,7 +53,7 @@ las variables relacionadas con el sexo.
 5. Reforzar la necesidad de integrar la prevención de los riesgos laborales en
 los sistemas de gestión de la empresa.
 
-En la ley se contempla especialmente la **protección de los trabajadores
+En la ley se contempla particularmente la **protección de los trabajadores
 especialmente sensibles**, mientras que su estado de sensibilidad sea conocido
 por el empresario en el
 [artículo 25](https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292#a25)
@@ -64,13 +64,14 @@ Y en esta ley se refiere a la figura del **recurso preventivo** en el
 Los recursos preventivos son personas formadas adecuadamente y con medios
 suficientes que vigilan el desarrollo de actividades
 - Con circunstancias agravantes por concurrencia de operaciones.
-- Especialmente peligrosas según el reglamento
+- Especialmente peligrosas según el
+[reglamento](https://www.boe.es/buscar/act.php?id=BOE-A-1997-1853#a22bis)
 - Cuando lo mande una Inspección de Trabajo y Seguridad Social
 
 ## Reglamento
 
-El [reglamento](https://www.boe.es/buscar/act.php?id=BOE-A-1997-1853)
-especifica:
+El [reglamento](https://www.boe.es/buscar/act.php?id=BOE-A-1997-1853) de los
+servicios de prevención especifica:
 
 1. Integración de la actividad preventiva en la empresa
 2. Evaluación de Riesgos y Planificación de la Actividad Preventiva
