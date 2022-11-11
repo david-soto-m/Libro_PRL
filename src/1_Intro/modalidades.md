@@ -101,16 +101,15 @@ sus actividades en un polígono industrial o área geográfica limitada.
 Las empresas que esten obligadas a tener un servicio propio no pueden tener
 servicios mancomunados.
 
-## Video
-
+## Video>
 <iframe id="player" type="text/html"
   src="http://www.youtube.com/embed/zBP4IgeOHgs"
   frameborder="0"
   allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen="true"
   style="
-    width: 50vw;
-    height: 50vh;
+    width: 100%;
+    aspect-ratio: 5/4;
     margin: auto;
     border: none"
 />
