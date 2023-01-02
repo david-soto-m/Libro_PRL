@@ -41,22 +41,25 @@ que a su vez se justifica en el tratado constitutivo de la CEE[^2].
 
 Sus objetivos pueden verse en el preámbulo, pero en resumen:
 
-1. Promover la mejora de las condiciones de trabajo dirigida a elevar el nivel
-de protección de la seguridad y la salud de los trabajadores
-2. Fomentar una auténtica cultura de la prevención de los riesgos en el trabajo
-en los diferentes niveles de enseñanza
-3. Mejora de las condiciones de seguridad y salud en el trabajo y la reducción
-de los riesgos laborales, la investigación o fomento de nuevas formas de
-protección y la promoción de estructuras eficaces de prevención.
-4. Efectividad del principio de igualdad entre hombres y mujeres considerando
-las variables relacionadas con el sexo.
-5. Reforzar la necesidad de integrar la prevención de los riesgos laborales en
-los sistemas de gestión de la empresa.
+1. Promover la **mejora** de las **condiciones de trabajo** dirigida a elevar el
+nivel de protección de la seguridad y la salud de los trabajadores
+2. Fomentar una auténtica **cultura de la prevención** de los riesgos en el
+trabajo en los diferentes niveles de enseñanza
+3. **Mejora** de las condiciones de **seguridad y salud** en el trabajo y la
+reducción de los riesgos laborales, la investigación o fomento de nuevas formas
+de protección y la promoción de estructuras eficaces de prevención.
+4. Efectividad del **principio de igualdad** entre hombres y mujeres
+considerando las variables relacionadas con el sexo.
+5. Reforzar la necesidad de **integrar** la prevención de los riesgos laborales
+en los **sistemas de gestión** de la empresa.
 
 En la ley se contempla particularmente la **protección de los trabajadores
 especialmente sensibles**, mientras que su estado de sensibilidad sea conocido
-por el empresario en el
-[artículo 25](https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292#a25)
+por el empresario, en el
+[artículo 25](https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292#a25). Hay
+que tener en cuenta estas características en la evaluación de riesgos para
+tomar las medidas adecuadas (incluyendo que no sea posible que una persona en
+concreto no pueda trabajar en ese puesto).
 
 Y en esta ley se refiere a la figura del **recurso preventivo** en el
 [artículo 32 bis](https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292#a32bis)
