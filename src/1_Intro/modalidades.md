@@ -41,7 +41,7 @@ preventiva.
 Si los trabajadores designados no pueden hacerlo todo, se pueden usar otras
 modalidades para hacerlo.
 
-Tienen que tener las capacidades , ser suficientes ( de nuevo
+Tienen que tener las capacidades , ser suficientes (de nuevo
 [capítulo IV](https://www.boe.es/buscar/act.php?id=BOE-A-1997-1853#civ)), tener
 medios y tiempo suficiente para encargarse bien de sus funciones.
 
@@ -55,7 +55,7 @@ Se tiene que constituir un servicio propio cuando la empresa tiene
 - 500+ empleados
 - Si estando en el rango [250, 500] empleados realizan alguna actividad del
 [anexo I](https://www.boe.es/buscar/act.php?id=BOE-A-1997-1853#ani).
-- Que lo mande una Inspeccion de trabajo y Seguridad Social o lo mande la
+- Que lo mande una Inspección de trabajo y Seguridad Social o lo mande la
 algún órgano de Comunidad Autónoma.
 
     Darán un plazo de como mucho un año para que se constituya el servicio.
@@ -78,7 +78,7 @@ prevención ajenos.
 
 ## Servicios de prevención ajenos
 
-[Artículo 16](https://www.boe.es/buscar/act.php?id=BOE-A-1997-1853#a16),
+[Artículo 16](https://www.boe.es/buscar/act.php?id=BOE-A-1997-1853#a16)
 
 - Que la designación sea insuficiente
 - Que cuando te lo manda una Inspección de Trabajo y Seguridad Social u otros
@@ -88,7 +88,7 @@ constituir un servicio de prevención propio.
 actividad preventiva.
 
 ### Servicios mancomunados
-[Artículo 21](https://www.boe.es/buscar/act.php?id=BOE-A-1997-1853#a21),
+[Artículo 21](https://www.boe.es/buscar/act.php?id=BOE-A-1997-1853#a21)
 
 Se pueden hacer servicios mancomunados entre empresas que desarrollen
 simultáneamente actividades en un centro de trabajo, edificio o centro
@@ -98,10 +98,10 @@ También se pueden hacer servicios de prevención mancomunados entre empresas qu
 pertenezcan a un mismo sector productivo o grupo empresarial o que desarrollen
 sus actividades en un polígono industrial o área geográfica limitada.
 
-Las empresas que esten obligadas a tener un servicio propio no pueden tener
+Las empresas que estén obligadas a tener un servicio propio no pueden tener
 servicios mancomunados.
 
-## Video>
+## Video
 <iframe id="player" type="text/html"
   src="https://www.youtube.com/embed/zBP4IgeOHgs"
   frameborder="0"
@@ -112,4 +112,4 @@ servicios mancomunados.
     aspect-ratio: 5/4;
     margin: auto;
     border: none"
-/>
+></iframe>
